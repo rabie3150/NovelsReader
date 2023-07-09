@@ -1,0 +1,7 @@
+concurrent.futures
+halo
+Pillow
+requests
+tqdm
+win32api
+win32con
